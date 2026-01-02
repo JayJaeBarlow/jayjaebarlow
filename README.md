@@ -33,16 +33,6 @@ I bridge the gap between complex **Artificial Intelligence** models and robust *
 
 ---
 
-### 🔭 Selected Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Project Name** | Short description of an AI project from your portfolio. | `Python` `PyTorch` |
-| **Project Name** | Short description of a Web App from your portfolio. | `React` `Node.js` |
-| **Project Name** | Short description of a tool you built. | `TypeScript` `Docker` |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
