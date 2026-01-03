@@ -42,7 +42,7 @@ I bridge the gap between complex **Artificial Intelligence** models and robust *
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me.
 
 <div align="center">
 <a href="https://jayjaebarlow.info/" target="_blank">
