@@ -1,6 +1,6 @@
 # Hi there, I'm Jay Jae Barlow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 👨‍💻 AI Engineer & Full-Stack Developer
+### 👨‍💻 AI & Data Science Student
 **[jayjaebarlow.info](https://jayjaebarlow.info/)**
 
 I bridge the gap between complex **Artificial Intelligence** models and robust **Full-Stack** applications. Passionate about building scalable, intelligent systems that solve real-world problems.
